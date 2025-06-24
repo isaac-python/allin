@@ -1,4 +1,3 @@
-# allin
 # My First GitHub Project
 
 이 프로젝트는 GitHub 연습을 위한 간단한 예제입니다.
